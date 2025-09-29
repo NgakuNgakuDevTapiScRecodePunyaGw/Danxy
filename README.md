@@ -40,11 +40,13 @@
   <img alt="Rank" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NgakuNgakuDevTapiScRecodePunyaGw&theme=radical">
 </p>
 <!-- ======================================================================= -->
+
 ---
 **DanxyTools v8.4** adalah **multi-tools framework untuk Termux** yang berisi berbagai modul:  
 networking, penetration testing, spam, phishing, OSINT, hingga utilities sehari-hari.  
 Didesain dengan fokus pada **kemudahan penggunaan** dan **tampilan interaktif**.  
 ---
+
 ## Highlights
 - Modular: berbagai fitur dalam satu framework
 - Interactive UI: tampilan dengan warna & animasi
@@ -98,5 +100,6 @@ Bantu kembangkan project ini dengan memberikan ⭐ pada repository.
 
 
 ---
+
 
 
