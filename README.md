@@ -11,6 +11,13 @@
 [![Pull Requests](https://img.shields.io/github/issues-pr/NgakuNgakuDevTapiScRecodePunyaGw/Danxy?style=for-the-badge&logo=githubactions&logoColor=white)]()
 [![Last Commit](https://img.shields.io/github/last-commit/NgakuNgakuDevTapiScRecodePunyaGw/Danxy?style=for-the-badge&logo=git)]()
 
+[![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=githubactions)]()
+[![Downloads](https://img.shields.io/badge/Downloads-1k%2B-orange?style=for-the-badge&logo=github)]()
+[![Made With](https://img.shields.io/badge/Made%20With-Bash%20%7C%20Termux%20%7C%20Linux-darkblue?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![Community](https://img.shields.io/badge/Community-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/DanxyStore)
+[![Maintenance](https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge&logo=github)]()
+[![Visitors](https://komarev.com/ghpvc/?username=NgakuNgakuDevTapiScRecodePunyaGw&style=for-the-badge&color=blue)]()
+
 ---
 **DanxyTools v8.4** adalah **multi-tools framework untuk Termux** yang berisi berbagai modul:  
 networking, penetration testing, spam, phishing, OSINT, hingga utilities sehari-hari.  
@@ -69,3 +76,4 @@ Bantu kembangkan project ini dengan memberikan ⭐ pada repository.
 
 
 ---
+
