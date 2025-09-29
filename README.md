@@ -72,17 +72,14 @@ Tampilan menu utama setelah dijalankan:
 
 ---
 
-📡 Kontak & Komunitas
+## 📡 Kontak & Komunitas  
 
-YouTube: https://www.youtube.com/@DanxyOfficial
-
-WhatsApp Channel: https://whatsapp.com/channel/0029VaznZlq7z4kW00unHZ0e
-
-TikTok: https://www.tiktok.com/@Qwela.38
-
-Telegram Store: t.me/DanxyStore
-
-
+| Platform | Link |
+|----------|------|
+| [![YouTube](https://img.shields.io/badge/YouTube-DanxyOfficial-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@DanxyOfficial) | Konten resmi & update terbaru |
+| [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaznZlq7z4kW00unHZ0e) | Join channel buat info & support |
+| [![TikTok](https://img.shields.io/badge/TikTok-Qwela.38-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@Qwela.38) | Short video & demo tools |
+| [![Telegram](https://img.shields.io/badge/Telegram-DanxyStore-blue?style=for-the-badge&logo=telegram)](https://t.me/DanxyStore) | Store & kontak langsung |
 
 ---
 
@@ -100,6 +97,7 @@ Bantu kembangkan project ini dengan memberikan ⭐ pada repository.
 
 
 ---
+
 
 
 
