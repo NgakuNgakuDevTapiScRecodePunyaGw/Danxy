@@ -26,9 +26,6 @@
   &nbsp;
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgakuNgakuDevTapiScRecodePunyaGw&layout=compact&theme=radical&hide=html">
 </p>
-
-<!-- Contribution graph (visual activity / "radar-like" heatmap) -->
-<p align="left">
   <!-- activity-graph provides a visual "radar-like" contribution map -->
   <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=NgakuNgakuDevTapiScRecodePunyaGw&bg_color=0,0,0&color=ff0000&line=ffffff&point=ff4500&area=true">
 </p>
@@ -42,36 +39,50 @@
 <!-- ======================================================================= -->
 
 ---
-**DanxyTools v8.4** adalah **multi-tools framework untuk Termux** yang berisi berbagai modul:  
-networking, penetration testing, spam, phishing, OSINT, hingga utilities sehari-hari.  
-Didesain dengan fokus pada **kemudahan penggunaan** dan **tampilan interaktif**.  
----
 
-## Highlights
-- Modular: berbagai fitur dalam satu framework
-- Interactive UI: tampilan dengan warna & animasi
-- Built-in Audio Feedback: efek klik, error, dan musik background
-- Easy Setup: auto-dependency installer
-- Updated: versi 8.4 membawa perbaikan & penambahan menu
----
+# 🔧 Tentang — DanxyTools v8.4
 
-## Cuplikan Fitur
-- **Suntik & Exploit Tools** (IG, TikTok, dll)  
-- **Phishing & Deface Kit**  
-- **Spam Engine** (SMS, WhatsApp, Email)  
-- **OSINT & Tracking Tools** (IP, lokasi, ghost trace)  
-- **Downloader Utility**  
-- **ASCII & Banner Generator**  
-- **Audio Player Integration** 
-- **Dan Masi Banyak Lagi** 
+**DanxyTools v8.4** adalah *all-in-one multi-tools framework* untuk **Termux**.  
+Didesain untuk developer, penetration testers, peneliti keamanan, dan power-users yang butuh toolbox cepat — berisi modul untuk networking, OSINT, automation, dan utilitas harian. Fokus desain: **kemudahan penggunaan**, **modularitas**, dan **tampilan interaktif** yang responsif di terminal.
 
 ---
 
+## ✨ Highlights
+- **Modular** — struktur menu yang rapi; tiap fitur berdiri sendiri sehingga mudah dikembangkan.  
+- **Interactive UI** — feedback visual (warna, banner, progress) untuk pengalaman CLI yang modern.  
+- **Audio Feedback** — suara klik, notifikasi error, dan musik latar opsional untuk ambience.  
+- **Auto-deps** — installer otomatis (mpv, sox, yt-dlp, dll.) agar setup cepat.  
+- **Release-ready** — v8.4 membawa perbaikan stabilitas, UI polish, dan penambahan menu.
+
+---
+
+## 🔎 Cuplikan Fitur Utama
+- 🔐 **Suntik & Exploit Helpers** — utilities untuk otomatisasi interaksi pada platform populer (IG, TikTok, YouTube).  
+- 🛡️ **Phishing & Deface Kit** — toolkit untuk simulasi/riset keamanan (gunakan hanya untuk edukasi dan izin eksplisit).  
+- 📣 **Spam Engine** — modul pengiriman pesan (SMS/WhatsApp/Email) untuk uji beban dan pengujian notifikasi.  
+- 🕵️ **OSINT & Tracking** — IP lookup, lokasi kasar, dan ghost-trace utilities untuk investigasi open-source.  
+- ⬇️ **Downloader** — helper berbasis `yt-dlp`/`mpv` untuk media grabbing dan pemutar audio.  
+- 🎨 **ASCII & Banner Generator** — custom banners, quick ASCII art untuk tampilan CLI.  
+- 🎧 **Audio Player** — multi-album playlist, kontrol playback, dan efek audio.  
+- ➕ **Banyak lagi** — menu utilitas (kalkulator, enkripsi bash, checker, dsb).
+
+---
+
+##  Tampilan singkat
 Tampilan menu utama setelah dijalankan:
+
 ![DanxyTools v8.4](https://raw.githubusercontent.com/NgakuNgakuDevTapiScRecodePunyaGw/Danxy/main/DanxyToolsV84.png)
 
 ---
 
+##  Quickstart (Termux)
+```bash
+pkg update && pkg upgrade -y
+pkg install git curl wget toilet figlet sox mpv -y
+git clone https://github.com/NgakuNgakuDevTapiScRecodePunyaGw/Danxy
+cd Danxy
+bash DanxyTools.sh
+```
 ## 📡 Kontak & Komunitas  
 
 | Platform | Link |
@@ -83,20 +94,58 @@ Tampilan menu utama setelah dijalankan:
 
 ---
 
-⚠️ Disclaimer ⚠️
+⚠️ **Disclaimer & Responsible Use (Baca sebelum menggunakan)**
 
-Tools ini dikembangkan untuk riset & edukasi.
-Segala bentuk penyalahgunaan di luar tanggung jawab developer.
+**1. Tujuan**
+Project ini dibuat untuk **riset, edukasi, dan pengujian keamanan** di lingkungan yang Anda miliki atau untuk mana Anda telah mendapatkan izin eksplisit.  
+
+**2. Batasan Penggunaan**
+Dilarang menggunakan tools ini untuk:
+- Mengakses, merusak, atau mengambil data dari sistem tanpa izin.
+- Melakukan serangan, defacement, atau aktivitas yang merugikan pihak lain.
+- Melakukan tindakan yang melanggar hukum atau peraturan setempat.
+
+**3. Tanggung Jawab**
+Pengguna **bertanggung jawab penuh** atas penggunaan tools ini. Developer dan pemilik repository **tidak bertanggung jawab** atas kerugian, tuntutan hukum, atau konsekuensi lain yang timbul dari penggunaan atau penyalahgunaan tools ini.
+
+**4. Responsible Disclosure**
+Jika Anda menemukan celah keamanan atau bug berisiko tinggi:
+1. Jangan mengeksposnya publik.
+2. Laporkan segera ke kontak developer / channel support:  
+   - WhatsApp: https://wa.me/6285741852394?text=*LAPOR%20TOOLS%20ERROR%20BANG*  
+   - Telegram: https://t.me/DanxyStore  
+3. Sertakan langkah reproduksi, dampak potensial, dan bukti (log/screenshot).
+
+**5. Lisensi & Kontribusi**
+Sertakan file `LICENSE` yang jelas (mis. MIT/GPL) untuk menjelaskan hak dan batasan penggunaan kode. Jika ingin berkontribusi, ikuti panduan di `CONTRIBUTING.md`.
+
+**6. Etika**
+Gunakan pengetahuan dan tools ini secara etis — tujuan utama adalah meningkatkan keamanan, bukan mengeksploitasi.
+
+> Dengan menjalankan atau menggunakan tools ini, Anda menyatakan telah membaca, memahami, dan menyetujui semua ketentuan di atas.
 
 
 ---
 
-⭐ Dukungan
+## ⭐ Dukungan & Kontribusi
 
-Bantu kembangkan project ini dengan memberikan ⭐ pada repository.
+Project ini berkembang berkat dukungan komunitas.  
+Jika Anda merasa tools ini bermanfaat:
 
+- Berikan **⭐ Star** pada repository ini → membantu meningkatkan visibilitas project.  
+- Bagikan repo ini ke komunitas atau teman yang tertarik.  
+- Laporkan bug atau usulkan fitur baru melalui [Issues](../../issues).  
+- Buat **Pull Request** jika ingin berkontribusi langsung pada kode.
+
+> Setiap dukungan, sekecil apapun, sangat berarti untuk menjaga project ini tetap aktif dan berkembang. ❤️  
 
 ---
+
+
+
+
+
+
 
 
 
