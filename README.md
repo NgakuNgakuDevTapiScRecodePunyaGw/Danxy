@@ -79,11 +79,14 @@ pkg update && pkg upgrade -y
 pkg install git curl wget toilet figlet sox mpv -y
 git clone https://github.com/NgakuNgakuDevTapiScRecodePunyaGw/Danxy
 cd Danxy
-bash DanxyTools.sh
+make install
+make run
+(Dapatkan Id Ana dari Danxy)
 ```
 ## 📡 Kontak & Komunitas  
 
-| Platform | Link |
+
+| Platform | LINK |
 |----------|------|
 | [![YouTube](https://img.shields.io/badge/YouTube-DanxyOfficial-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@DanxyOfficial) | Konten resmi & update terbaru |
 | [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaznZlq7z4kW00unHZ0e) | Join channel buat info & support |
@@ -137,6 +140,7 @@ Jika Anda merasa tools ini bermanfaat:
 > Setiap dukungan, sekecil apapun, sangat berarti untuk menjaga project ini tetap aktif dan berkembang. ❤️  
 
 ---
+
 
 
 
