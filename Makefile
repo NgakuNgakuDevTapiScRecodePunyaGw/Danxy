@@ -36,7 +36,7 @@ install:
 	@pip install rich
 	@pip install rich-cli
 	@pip install yt-dlp
-	@echo "[ ✔ ] Semua paket berhasil diinstal"
+	@echo "[ ✔ ] Semua paket berhasil diinstal!"
 
 tutor:
 	@clear
@@ -60,4 +60,5 @@ run:
 	@echo
 	@echo "[ ! ] RUNING OTW JADI HACKER [ ! ]"; \
         git pull
-		bash OtakLuCuman1MBya.sh
+		chmod +x Danxy
+		./Danxy
