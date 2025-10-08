@@ -60,5 +60,4 @@ run:
 	@echo
 	@echo "[ ! ] RUNING OTW JADI HACKER [ ! ]"; \
         git pull
-		chmod +x Danxy
-		./Danxy
+		bash OtakLuCuman1MBya.sh
