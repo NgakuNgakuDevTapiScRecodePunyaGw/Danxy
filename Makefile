@@ -21,7 +21,7 @@ install:
 	@echo "██████╔╝██║░░██║██║░╚███║██╔╝╚██╗░░░██║░░░"
 	@echo "╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░"
 	@echo
-	@echo "[ ! ] Memulai instalasi semua dependensi..."
+	@echo "[ ! ] MEMULAI INSTALL SEMUA MODUEL [ ! ]"
 	@pkg update -y && pkg upgrade -y
 	@pkg install python python3 nala git -y
 	@pkg install coreutils ncurses-utils which python-pip nodejs bc ruby -y
@@ -58,6 +58,7 @@ run:
 	@echo "██████╔╝██║░░██║██║░╚███║██╔╝╚██╗░░░██║░░░"
 	@echo "╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░"
 	@echo
+    @clear
 	@echo "     [ ! ] RUNING OTW JADI HACKER [ ! ]"
     @echo "   [ ! ] PASTIKAN SINYAL KAMU BAGUS [ ! ]"
     @echo " [ ! ] PROSES RUNING 2 SAMPAI 5 MENIT [ ! ]"; \
