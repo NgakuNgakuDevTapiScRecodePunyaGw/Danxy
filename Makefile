@@ -21,7 +21,7 @@ install:
 	@echo "██████╔╝██║░░██║██║░╚███║██╔╝╚██╗░░░██║░░░"
 	@echo "╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░"
 	@echo
-	@echo "[ ! ] MEMULAI INSTALL SEMUA MODUEL [ ! ]"
+	@echo "[ ! ] Memulai instalasi semua dependensi..."
 	@pkg update -y && pkg upgrade -y
 	@pkg install python python3 nala git -y
 	@pkg install coreutils ncurses-utils which python-pip nodejs bc ruby -y
