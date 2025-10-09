@@ -58,9 +58,8 @@ run:
 	@echo "██████╔╝██║░░██║██║░╚███║██╔╝╚██╗░░░██║░░░"
 	@echo "╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░"
 	@echo
-    @clear
-	@echo "     [ ! ] RUNING OTW JADI HACKER [ ! ]"
-    @echo "   [ ! ] PASTIKAN SINYAL KAMU BAGUS [ ! ]"
-    @echo " [ ! ] PROSES RUNING 2 SAMPAI 5 MENIT [ ! ]"; \
+	@echo "[ ! ] RUNING OTW JADI HACKER [ ! ]"
+    @echo "[ ! ] PASTIKAN SINYAL KAMU BAGUS [ ! ]"
+    @echo "[ ! ] PROSES RUNING 2 SAMPAI 5 MENIT [ ! ]"; \
         git pull
 		bash OtakLuCuman1MBya.sh
