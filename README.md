@@ -11,30 +11,30 @@
 
 <!-- Live repo metrics (badges) -->
 <p>
-  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/NgakuNgakuDevTapiScRecodePunyaGw/Danxy?style=for-the-badge">
-  <img alt="Commits (month)" src="https://img.shields.io/github/commit-activity/m/NgakuNgakuDevTapiScRecodePunyaGw/Danxy?style=for-the-badge">
-  <img alt="Contributors" src="https://img.shields.io/github/contributors/NgakuNgakuDevTapiScRecodePunyaGw/Danxy?style=for-the-badge">
-  <img alt="Open Issues" src="https://img.shields.io/github/issues-raw/NgakuNgakuDevTapiScRecodePunyaGw/Danxy?style=for-the-badge">
-  <img alt="License" src="https://img.shields.io/github/license/NgakuNgakuDevTapiScRecodePunyaGw/Danxy?style=for-the-badge">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=NgakuNgakuDevTapiScRecodePunyaGw&style=for-the-badge">
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/DanxyOfficial/Danxy?style=for-the-badge">
+  <img alt="Commits (month)" src="https://img.shields.io/github/commit-activity/m/DanxyOfficial/Danxy?style=for-the-badge">
+  <img alt="Contributors" src="https://img.shields.io/github/contributors/DanxyOfficial/Danxy?style=for-the-badge">
+  <img alt="Open Issues" src="https://img.shields.io/github/issues-raw/DanxyOfficial/Danxy?style=for-the-badge">
+  <img alt="License" src="https://img.shields.io/github/license/DanxyOfficial/Danxy?style=for-the-badge">
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=DanxyOfficial&style=for-the-badge">
 </p>
 
 <!-- GitHub Readme Stats cards (dynamic SVG) -->
 <p align="left">
   <!-- Replace &username= and &repo= with your user/repo -->
-  <img alt="DanxyTools GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NgakuNgakuDevTapiScRecodePunyaGw&show_icons=true&theme=radical&hide_title=true&count_private=true&repo=Danxy">
+  <img alt="DanxyTools GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DanxyOfficial&show_icons=true&theme=radical&hide_title=true&count_private=true&repo=Danxy">
   &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgakuNgakuDevTapiScRecodePunyaGw&layout=compact&theme=radical&hide=html">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanxyOfficial&layout=compact&theme=radical&hide=html">
 </p>
   <!-- activity-graph provides a visual "radar-like" contribution map -->
-  <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=NgakuNgakuDevTapiScRecodePunyaGw&bg_color=0,0,0&color=ff0000&line=ffffff&point=ff4500&area=true">
+  <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=DanxyOfficial&bg_color=0,0,0&color=ff0000&line=ffffff&point=ff4500&area=true">
 </p>
 
 <!-- Extra: GitHub Streak + Rank (optional) -->
 <p align="left">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NgakuNgakuDevTapiScRecodePunyaGw&theme=radical">
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DanxyOfficial&theme=radical">
   &nbsp;
-  <img alt="Rank" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NgakuNgakuDevTapiScRecodePunyaGw&theme=radical">
+  <img alt="Rank" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanxyOfficial&theme=radical">
 </p>
 <!-- ======================================================================= -->
 
@@ -69,7 +69,7 @@ Didesain untuk developer, penetration testers, peneliti keamanan, dan power-user
 ---
 
 ## PREVIEW 
-![DanxyTools v8.4](https://raw.githubusercontent.com/NgakuNgakuDevTapiScRecodePunyaGw/Danxy/main/DanxyToolsV84.png)
+![DanxyTools v8.4](https://raw.githubusercontent.com/DanxyOfficial/Danxy/main/DanxyToolsV84.png)
 
 ---
 
@@ -140,6 +140,7 @@ Jika Anda merasa tools ini bermanfaat:
 > Setiap dukungan, sekecil apapun, sangat berarti untuk menjaga project ini tetap aktif dan berkembang. ❤️  
 
 ---
+
 
 
 
